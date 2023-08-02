@@ -1,6 +1,6 @@
 //
 //  JokesView.swift
-//  dataXplorer
+//  Available
 //
 //  Created by Ardhita Eka Putri on 01/08/23.
 //  Copyright © 2023 Ardhita Eka Putri. All rights reserved.
