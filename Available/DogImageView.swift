@@ -2,7 +2,7 @@
 //  DogImageView.swift
 //  Available
 //
-//  Created by Muhammad Farkhanudin on 02/08/23.
+//  Created by Ardhita Eka Putri on 02/08/23.
 //  Copyright © 2023 Ardhita Eka Putri. All rights reserved.
 //
 
